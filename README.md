@@ -1,2 +1,2 @@
 # Business-Analytics-Assignments
-A repository containing all my assignments in my Business Analytics degree. 
+Welcome to my repository! My name is Amritha Jeya and I currently study a Bachelor of Business Analytics
