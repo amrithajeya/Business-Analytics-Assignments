@@ -1,4 +1,4 @@
-**Unit Description**
+** Unit Description **
 This unit focuses on the role of accounting and the accounting profession in society. By
 exploring and discovering diverse accountability frameworks, students will learn to appreciate
 the role accounting plays. The unit aims to introduce basic accounting language, concepts
