@@ -9,7 +9,6 @@ From my degree, I have been able to strengthen my qualitative skills, such as gr
 - BUSA3015 Business Forecasting
 - BUSA3020 Advanced Analytics Techniques 
 
-
 **Accounting**
 - ACCG100 Accounting in Society 
 - ACCG3055 Information Systems and Management
