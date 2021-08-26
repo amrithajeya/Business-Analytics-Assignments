@@ -1,4 +1,5 @@
 **Unit Description**
+
 This is an advanced applied-skills unit which extends concepts and analytical techniques from
 earlier units. Students will use data to create graphical representations of data for analysis.
 Students will clean data in commonly-used spreadsheet formats and make extensive use of
