@@ -17,7 +17,7 @@
 
 ## Assignments
 |Assignment|Mark|
-|:----|----:|
+|:----|:----|
 |Assignment 1 - Social Network Analysis|95%|
 |Assignment 2 - Predictive Analysis|95%|
 |Assignment 3 - Clustering|97.5%|
