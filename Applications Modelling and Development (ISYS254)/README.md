@@ -12,10 +12,13 @@
 > development life cycle, requirements gathering, designing a solution, and implementing and
 > testing a solution in a programming language.
 
-**Learning Outcomes**
+#### Learning Outcomes
 > 1. Demonstrate ability to communicate software requirements and designs, clearly and effectively.
 > 2. Practice the key phases of the software development life cycle (SDLC) including requirements engineering, analysis, design, basic development and testing and demonstrate understanding of alternative SDLC lifecycle models.
 > 3. Demonstrate an understanding of the concepts and tools needed to successfully design and build a mobile application with a database-centric approach
 
 ## Assignments
-- Assignment 1 - Requirements and Modelling: 83.5%
+|Assignment|Mark|
+|:----|----:|
+|Assignment 1 - Requirements and Modelling|83.5%|
+
