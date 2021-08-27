@@ -1,4 +1,7 @@
-**Unit Description**
+# ISYS254 Applications Modelling and Development
+
+## Unit Description
+
 This unit is an intermediate unit to deliver a solid foundation in concepts, methods, tools and
 techniques that organisations use to control the information they use in their day-to-day
 business, with a particular focus on how computer-based technologies can most effectively
@@ -14,5 +17,5 @@ testing a solution in a programming language.
 2. Practice the key phases of the software development life cycle (SDLC) including requirements engineering, analysis, design, basic development and testing and demonstrate understanding of alternative SDLC lifecycle models.
 3. Demonstrate an understanding of the concepts and tools needed to successfully design and build a mobile application with a database-centric approach
 
-**Assignments**
+## Assignments
 - Assignment 1 - Requirements and Modelling: 83.5%
