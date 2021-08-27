@@ -14,6 +14,6 @@
 
 ## Assignments
 |Assignment|Mark|
-|:----|----:|
+|:----|:----|
 |Assignment 1 - Report|67.74%|
 
