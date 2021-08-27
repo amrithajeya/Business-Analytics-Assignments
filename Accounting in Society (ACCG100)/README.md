@@ -24,5 +24,5 @@
 
 ## Assignments
 |Assignment|Mark|
-|:----|---:|
+|:----|:---|
 |Assignment 1 - Case Study|72%|
