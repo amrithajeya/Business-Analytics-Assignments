@@ -14,7 +14,7 @@
 > application to problem solving, with one particular learning outcome being the demonstration
 > of communication skills.
 
-### Learning Outcomes
+#### Learning Outcomes
 > 1. Define and examine the role of Accounting in a contemporary social context with a focus
 > on business ethics and responsible management.
 > 2. Describe the business environment of the accounting profession.
