@@ -16,6 +16,9 @@
 > 4. Analyse contemporary challenges commonly facing business organisations and how to respond to them.
 
 ## Assignments
+|Assignment |Mark   |
+|:-------------------------------------|------:|
+|Assignment 1 - Social Network Analysis|72%    |
 
 - Assignment 1 - Social Network Analysis: 95%
 - Assignment 2 - Predictive Analysis: 95%
