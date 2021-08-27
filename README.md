@@ -2,7 +2,7 @@
 Welcome to my repository!
 
 From my Business Analytics degree at Macquarie University, I have been able to strengthen my **qualitative skills**, such as graphic presentation and information communication; **quantitative skills**, such as modelling and statistics; **computing skills**, such as business information and intelligence systems and programming and; **business training** such as accounting, business analytics, forecasting and management. In my repository, you will find past assignments highlighting my skills and training from the following units:
-
+---
 ### Business Analytics
 - BBA102 Principles of Management
 - BUSA2020 Fundamentals of Business Analytics
