@@ -12,4 +12,6 @@
 > 5. Enhance awareness of analytics' contribution to society through discussion of ethical and professional conduct and issues in corporate social responsibility.
 
 ## Assignments 
-- Assignment 1 - Reflection: 100%
+|Assignment|Mark|
+|:----|:----|
+|Assignment 1 - Reflection|100%|
