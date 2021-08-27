@@ -7,7 +7,8 @@ From my degree, I have been able to strengthen my qualitative skills, such as gr
 - BBA102 Principles of Management
 - BUSA2020 Fundamentals of Business Analytics
 - BUSA3015 Business Forecasting
-- BUSA3020 Advanced Analytics Techniques 
+- BUSA3020 Advanced Analytics Techniques
+- BUSA3021 Business Analytics Project 
 
 **Accounting**
 - ACCG100 Accounting in Society 
@@ -19,3 +20,4 @@ From my degree, I have been able to strengthen my qualitative skills, such as gr
 
 **Statistics**
 - STAT270 Applied Statistics
+- STAT3102 Graphics, Multivariate Methods and Data Mining
