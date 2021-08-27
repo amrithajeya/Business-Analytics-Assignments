@@ -20,5 +20,5 @@
 > 4. Examine the traditional aspects of accounting for business decision-making.
 > 5. Communicate effectively in written and spoken form
 
-**Assignments** 
+## Assignments
 - Assignment 1 - Case Study: 72%
