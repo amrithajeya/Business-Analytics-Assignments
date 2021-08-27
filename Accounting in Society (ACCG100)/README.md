@@ -23,6 +23,6 @@
 > 5. Communicate effectively in written and spoken form
 
 ## Assignments
-|Assignment                       |Mark  |
+|:-- Assignment                       |Mark  |
 |---------------------------------|------|
 |Assignment 1 - Case Study        |72%   |
