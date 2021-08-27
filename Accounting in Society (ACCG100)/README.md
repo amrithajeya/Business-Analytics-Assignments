@@ -1,4 +1,6 @@
-## **Unit Description**
+# ACCG100 Accounting in Society
+
+## Unit Description
 
 > This unit focuses on the role of accounting and the accounting profession in society. By
 > exploring and discovering diverse accountability frameworks, students will learn to appreciate
