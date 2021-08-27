@@ -9,7 +9,7 @@ From my Business Analytics degree at Macquarie University, I have been able to s
 - BUSA3015 Business Forecasting
 - BUSA3020 Advanced Analytics Techniques
 - BUSA3021 Business Analytics Project 
-- 
+
 ### Accounting
 - ACCG100 Accounting in Society 
 - ACCG3055 Information Systems and Management
