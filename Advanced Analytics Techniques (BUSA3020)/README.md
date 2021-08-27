@@ -9,7 +9,7 @@
 > visualisation that can be applied to competitive behaviour, target customer analysis,
 > criminology and security intelligence problems.
 
-**Learning Outcomes**
+#### Learning Outcomes
 > 1. Develop sound solutions to a range of business problems using an analytical approach.
 > 2. Demonstrate competence in applying basic forecasting techniques to a range of business issues.
 > 3. Apply critical thinking to strategy in analysing firm behaviour.
