@@ -11,5 +11,7 @@
 > 4. Critically examine business contexts and transform relevant data to provide recommendations for stakeholders.
 
 ## Assignments
-- Assignment 1 - Case Study: 80% 
-- Assignment 2 - Case Study: 84%
+|Assignment|Mark|
+|:----|:----|
+|Assignment 1 - Case Study|80%|
+|Assignment 2 - Case Study|84%|
