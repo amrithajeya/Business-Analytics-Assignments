@@ -19,6 +19,6 @@
 
 ## Assignments
 |Assignment|Mark|
-|:----|----:|
+|:----|:----|
 |Assignment 1 - Requirements and Modelling|83.5%|
 
