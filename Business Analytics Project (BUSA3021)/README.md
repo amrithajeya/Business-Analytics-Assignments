@@ -15,3 +15,4 @@
 |Assignment|Mark|
 |:----|:----|
 |Assignment 1 - Reflection|100%|
+|Assignment 4 - Group Project Report|95.56%|
