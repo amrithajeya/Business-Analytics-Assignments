@@ -11,10 +11,3 @@
 > 4. Analyse government, industry and social media data to identify relationships and trends.
 > 5. Evaluate conclusions drawn from different data and analytic tools.
 
-## Assignments
-|Assignment|Mark|
-|:----|:----|
-|Assignment 1 - Spreadsheet Functions|96%|
-|Assignment 2 - Data Visualisation|60%|
-|Assignment 3 - Model Sensitivity Analysis|60%|
-|Assignment 4 - Interactive Model (Group)|58.3%|
