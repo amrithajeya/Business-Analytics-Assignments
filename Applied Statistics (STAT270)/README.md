@@ -12,8 +12,5 @@
 > 5. Use statistical software to fit the models and interpret statistical software output appropriately.
 > 6. Demonstrate foundational learning skills including active engagement in their learning process.
 
-## Assignments
-|Assignment|Mark|
-|:----|:----|
-|Assignment 1 - Report|67.74%|
+
 
